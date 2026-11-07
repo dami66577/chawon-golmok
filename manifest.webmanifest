@@ -1,0 +1,16 @@
+{
+  "name": "차원골목 식당",
+  "short_name": "차원골목 식당",
+  "description": "재료를 섞어 요리를 발견하고, 손님 취향에 맞춰 키우는 도트 경영 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#1b2036",
+  "theme_color": "#2a3150",
+  "icons": [
+    { "src": "assets/app/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/app/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/app/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

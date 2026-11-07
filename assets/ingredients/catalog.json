@@ -1,0 +1,6581 @@
+{
+"normal_001": {
+"name": "감자",
+"category": "normal",
+"row": 0,
+"col": 0,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"normal_002": {
+"name": "고구마",
+"category": "normal",
+"row": 0,
+"col": 1,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"normal_003": {
+"name": "당근",
+"category": "normal",
+"row": 0,
+"col": 2,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"normal_004": {
+"name": "무",
+"category": "normal",
+"row": 0,
+"col": 3,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"normal_005": {
+"name": "비트",
+"category": "normal",
+"row": 0,
+"col": 4,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"normal_006": {
+"name": "양파",
+"category": "normal",
+"row": 0,
+"col": 5,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"normal_007": {
+"name": "마늘",
+"category": "normal",
+"row": 0,
+"col": 6,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"normal_008": {
+"name": "생강",
+"category": "normal",
+"row": 0,
+"col": 7,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"normal_009": {
+"name": "우엉",
+"category": "normal",
+"row": 0,
+"col": 8,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"normal_010": {
+"name": "연근",
+"category": "normal",
+"row": 0,
+"col": 9,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"normal_011": {
+"name": "토마토",
+"category": "normal",
+"row": 1,
+"col": 0,
+"cls": "veg",
+"tags": [
+"상큼"
+],
+"hearty": false
+},
+"normal_012": {
+"name": "오이",
+"category": "normal",
+"row": 1,
+"col": 1,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_013": {
+"name": "가지",
+"category": "normal",
+"row": 1,
+"col": 2,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_014": {
+"name": "호박",
+"category": "normal",
+"row": 1,
+"col": 3,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_015": {
+"name": "양배추",
+"category": "normal",
+"row": 1,
+"col": 4,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_016": {
+"name": "상추",
+"category": "normal",
+"row": 1,
+"col": 5,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_017": {
+"name": "브로콜리",
+"category": "normal",
+"row": 1,
+"col": 6,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_018": {
+"name": "파프리카",
+"category": "normal",
+"row": 1,
+"col": 7,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_019": {
+"name": "대파",
+"category": "normal",
+"row": 1,
+"col": 8,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"normal_020": {
+"name": "옥수수",
+"category": "normal",
+"row": 1,
+"col": 9,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_021": {
+"name": "사과",
+"category": "normal",
+"row": 2,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_022": {
+"name": "배",
+"category": "normal",
+"row": 2,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_023": {
+"name": "복숭아",
+"category": "normal",
+"row": 2,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_024": {
+"name": "자두",
+"category": "normal",
+"row": 2,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_025": {
+"name": "살구",
+"category": "normal",
+"row": 2,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_026": {
+"name": "체리",
+"category": "normal",
+"row": 2,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_027": {
+"name": "딸기",
+"category": "normal",
+"row": 2,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_028": {
+"name": "산딸기",
+"category": "normal",
+"row": 2,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_029": {
+"name": "블루베리",
+"category": "normal",
+"row": 2,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_030": {
+"name": "포도",
+"category": "normal",
+"row": 2,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_031": {
+"name": "바나나",
+"category": "normal",
+"row": 3,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_032": {
+"name": "오렌지",
+"category": "normal",
+"row": 3,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_033": {
+"name": "레몬",
+"category": "normal",
+"row": 3,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_034": {
+"name": "라임",
+"category": "normal",
+"row": 3,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_035": {
+"name": "수박",
+"category": "normal",
+"row": 3,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_036": {
+"name": "멜론",
+"category": "normal",
+"row": 3,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_037": {
+"name": "파인애플",
+"category": "normal",
+"row": 3,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_038": {
+"name": "망고",
+"category": "normal",
+"row": 3,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_039": {
+"name": "키위",
+"category": "normal",
+"row": 3,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"normal_040": {
+"name": "코코넛",
+"category": "normal",
+"row": 3,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"고소",
+"상큼"
+],
+"hearty": false
+},
+"normal_041": {
+"name": "밀",
+"category": "normal",
+"row": 4,
+"col": 0,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"normal_042": {
+"name": "쌀",
+"category": "normal",
+"row": 4,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"normal_043": {
+"name": "보리",
+"category": "normal",
+"row": 4,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"normal_044": {
+"name": "귀리",
+"category": "normal",
+"row": 4,
+"col": 3,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"normal_045": {
+"name": "콩",
+"category": "normal",
+"row": 4,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_046": {
+"name": "팥",
+"category": "normal",
+"row": 4,
+"col": 5,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_047": {
+"name": "땅콩",
+"category": "normal",
+"row": 4,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_048": {
+"name": "아몬드",
+"category": "normal",
+"row": 4,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_049": {
+"name": "호두",
+"category": "normal",
+"row": 4,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_050": {
+"name": "밤",
+"category": "normal",
+"row": 4,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_051": {
+"name": "표고버섯",
+"category": "normal",
+"row": 5,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_052": {
+"name": "양송이버섯",
+"category": "normal",
+"row": 5,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_053": {
+"name": "느타리버섯",
+"category": "normal",
+"row": 5,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_054": {
+"name": "팽이버섯",
+"category": "normal",
+"row": 5,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_055": {
+"name": "바질",
+"category": "normal",
+"row": 5,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_056": {
+"name": "민트",
+"category": "normal",
+"row": 5,
+"col": 5,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_057": {
+"name": "로즈메리",
+"category": "normal",
+"row": 5,
+"col": 6,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_058": {
+"name": "파슬리",
+"category": "normal",
+"row": 5,
+"col": 7,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_059": {
+"name": "고수",
+"category": "normal",
+"row": 5,
+"col": 8,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_060": {
+"name": "월계수잎",
+"category": "normal",
+"row": 5,
+"col": 9,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"normal_061": {
+"name": "닭다리",
+"category": "normal",
+"row": 6,
+"col": 0,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_062": {
+"name": "닭가슴살",
+"category": "normal",
+"row": 6,
+"col": 1,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_063": {
+"name": "오리가슴살",
+"category": "normal",
+"row": 6,
+"col": 2,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_064": {
+"name": "소고기",
+"category": "normal",
+"row": 6,
+"col": 3,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_065": {
+"name": "돼지삼겹살",
+"category": "normal",
+"row": 6,
+"col": 4,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_066": {
+"name": "돼지등심",
+"category": "normal",
+"row": 6,
+"col": 5,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_067": {
+"name": "양갈비",
+"category": "normal",
+"row": 6,
+"col": 6,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_068": {
+"name": "햄",
+"category": "normal",
+"row": 6,
+"col": 7,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_069": {
+"name": "베이컨",
+"category": "normal",
+"row": 6,
+"col": 8,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_070": {
+"name": "소시지",
+"category": "normal",
+"row": 6,
+"col": 9,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"normal_071": {
+"name": "달걀",
+"category": "normal",
+"row": 7,
+"col": 0,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_072": {
+"name": "오리알",
+"category": "normal",
+"row": 7,
+"col": 1,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_073": {
+"name": "메추리알",
+"category": "normal",
+"row": 7,
+"col": 2,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_074": {
+"name": "우유",
+"category": "normal",
+"row": 7,
+"col": 3,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"normal_075": {
+"name": "생크림",
+"category": "normal",
+"row": 7,
+"col": 4,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"normal_076": {
+"name": "요거트",
+"category": "normal",
+"row": 7,
+"col": 5,
+"cls": "dairy",
+"tags": [
+"고소",
+"상큼"
+],
+"hearty": false
+},
+"normal_077": {
+"name": "치즈",
+"category": "normal",
+"row": 7,
+"col": 6,
+"cls": "dairy",
+"tags": [
+"고소",
+"감칠"
+],
+"hearty": false
+},
+"normal_078": {
+"name": "모차렐라",
+"category": "normal",
+"row": 7,
+"col": 7,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"normal_079": {
+"name": "버터",
+"category": "normal",
+"row": 7,
+"col": 8,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"normal_080": {
+"name": "크림치즈",
+"category": "normal",
+"row": 7,
+"col": 9,
+"cls": "dairy",
+"tags": [
+"고소",
+"감칠"
+],
+"hearty": false
+},
+"normal_081": {
+"name": "소금",
+"category": "normal",
+"row": 8,
+"col": 0,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_082": {
+"name": "설탕",
+"category": "normal",
+"row": 8,
+"col": 1,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_083": {
+"name": "후추",
+"category": "normal",
+"row": 8,
+"col": 2,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"normal_084": {
+"name": "고춧가루",
+"category": "normal",
+"row": 8,
+"col": 3,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"normal_085": {
+"name": "참깨",
+"category": "normal",
+"row": 8,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"normal_086": {
+"name": "꿀",
+"category": "normal",
+"row": 8,
+"col": 5,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"normal_087": {
+"name": "식용유",
+"category": "normal",
+"row": 8,
+"col": 6,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_088": {
+"name": "된장",
+"category": "normal",
+"row": 8,
+"col": 7,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_089": {
+"name": "간장",
+"category": "normal",
+"row": 8,
+"col": 8,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_090": {
+"name": "식초",
+"category": "normal",
+"row": 8,
+"col": 9,
+"cls": "season",
+"tags": [
+"감칠",
+"상큼"
+],
+"hearty": false
+},
+"normal_091": {
+"name": "연어",
+"category": "normal",
+"row": 9,
+"col": 0,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_092": {
+"name": "대구살",
+"category": "normal",
+"row": 9,
+"col": 1,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_093": {
+"name": "참치",
+"category": "normal",
+"row": 9,
+"col": 2,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_094": {
+"name": "새우",
+"category": "normal",
+"row": 9,
+"col": 3,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_095": {
+"name": "게",
+"category": "normal",
+"row": 9,
+"col": 4,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_096": {
+"name": "홍합",
+"category": "normal",
+"row": 9,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_097": {
+"name": "조개",
+"category": "normal",
+"row": 9,
+"col": 6,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_098": {
+"name": "가리비",
+"category": "normal",
+"row": 9,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_099": {
+"name": "오징어",
+"category": "normal",
+"row": 9,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"normal_100": {
+"name": "미역",
+"category": "normal",
+"row": 9,
+"col": 9,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_001": {
+"name": "무지개 당근",
+"category": "fantasy",
+"row": 0,
+"col": 0,
+"cls": "root",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": true
+},
+"fantasy_002": {
+"name": "수정 감자",
+"category": "fantasy",
+"row": 0,
+"col": 1,
+"cls": "root",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"fantasy_003": {
+"name": "용비늘 호박",
+"category": "fantasy",
+"row": 0,
+"col": 2,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_004": {
+"name": "나선 양파",
+"category": "fantasy",
+"row": 0,
+"col": 3,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fantasy_005": {
+"name": "고리 양배추",
+"category": "fantasy",
+"row": 0,
+"col": 4,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_006": {
+"name": "풍선 브로콜리",
+"category": "fantasy",
+"row": 0,
+"col": 5,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_007": {
+"name": "번개 오이",
+"category": "fantasy",
+"row": 0,
+"col": 6,
+"cls": "veg",
+"tags": [
+"마력"
+],
+"hearty": false
+},
+"fantasy_008": {
+"name": "쌍둥이 파프리카",
+"category": "fantasy",
+"row": 0,
+"col": 7,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_009": {
+"name": "구슬 토마토",
+"category": "fantasy",
+"row": 0,
+"col": 8,
+"cls": "veg",
+"tags": [
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"fantasy_010": {
+"name": "주머니 가지",
+"category": "fantasy",
+"row": 0,
+"col": 9,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_011": {
+"name": "책장 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_012": {
+"name": "나팔 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_013": {
+"name": "우산 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_014": {
+"name": "고리 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_015": {
+"name": "유리 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 4,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_016": {
+"name": "나선 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 5,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_017": {
+"name": "청동 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 6,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_018": {
+"name": "점박이 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 7,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_019": {
+"name": "수염 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 8,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_020": {
+"name": "주머니 버섯",
+"category": "fantasy",
+"row": 1,
+"col": 9,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_021": {
+"name": "얼음 사과",
+"category": "fantasy",
+"row": 2,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_022": {
+"name": "불씨 배",
+"category": "fantasy",
+"row": 2,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"매운맛"
+],
+"hearty": false
+},
+"fantasy_023": {
+"name": "회오리 복숭아",
+"category": "fantasy",
+"row": 2,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_024": {
+"name": "물방울 자두",
+"category": "fantasy",
+"row": 2,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_025": {
+"name": "바람 포도",
+"category": "fantasy",
+"row": 2,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_026": {
+"name": "자석 체리",
+"category": "fantasy",
+"row": 2,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_027": {
+"name": "단추 딸기",
+"category": "fantasy",
+"row": 2,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_028": {
+"name": "거울 멜론",
+"category": "fantasy",
+"row": 2,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_029": {
+"name": "모자 바나나",
+"category": "fantasy",
+"row": 2,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_030": {
+"name": "무지개 파인애플",
+"category": "fantasy",
+"row": 2,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"fantasy_031": {
+"name": "호박석 살구",
+"category": "fantasy",
+"row": 3,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_032": {
+"name": "자수정 무화과",
+"category": "fantasy",
+"row": 3,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_033": {
+"name": "비늘 석류",
+"category": "fantasy",
+"row": 3,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_034": {
+"name": "톱니 레몬",
+"category": "fantasy",
+"row": 3,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_035": {
+"name": "별각 키위",
+"category": "fantasy",
+"row": 3,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_036": {
+"name": "소용돌이 망고",
+"category": "fantasy",
+"row": 3,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_037": {
+"name": "깃털 코코넛",
+"category": "fantasy",
+"row": 3,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"고소",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_038": {
+"name": "종소리 감",
+"category": "fantasy",
+"row": 3,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_039": {
+"name": "고리 수박",
+"category": "fantasy",
+"row": 3,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fantasy_040": {
+"name": "얼룩 참외",
+"category": "fantasy",
+"row": 3,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fantasy_041": {
+"name": "구슬 밀",
+"category": "fantasy",
+"row": 4,
+"col": 0,
+"cls": "grain",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"fantasy_042": {
+"name": "사각 쌀",
+"category": "fantasy",
+"row": 4,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fantasy_043": {
+"name": "나선 보리",
+"category": "fantasy",
+"row": 4,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fantasy_044": {
+"name": "오색 귀리",
+"category": "fantasy",
+"row": 4,
+"col": 3,
+"cls": "grain",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"fantasy_045": {
+"name": "물결 콩",
+"category": "fantasy",
+"row": 4,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_046": {
+"name": "점프 팥",
+"category": "fantasy",
+"row": 4,
+"col": 5,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_047": {
+"name": "톱니 호두",
+"category": "fantasy",
+"row": 4,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_048": {
+"name": "쌍둥이 밤",
+"category": "fantasy",
+"row": 4,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_049": {
+"name": "비늘 아몬드",
+"category": "fantasy",
+"row": 4,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_050": {
+"name": "고리 땅콩",
+"category": "fantasy",
+"row": 4,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_051": {
+"name": "얼음 고추",
+"category": "fantasy",
+"row": 5,
+"col": 0,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"fantasy_052": {
+"name": "불꽃 고추",
+"category": "fantasy",
+"row": 5,
+"col": 1,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"fantasy_053": {
+"name": "바람 겨자",
+"category": "fantasy",
+"row": 5,
+"col": 2,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"fantasy_054": {
+"name": "물결 생강",
+"category": "fantasy",
+"row": 5,
+"col": 3,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"fantasy_055": {
+"name": "자수정 마늘",
+"category": "fantasy",
+"row": 5,
+"col": 4,
+"cls": "spice",
+"tags": [
+"매운맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_056": {
+"name": "황금 심황",
+"category": "fantasy",
+"row": 5,
+"col": 5,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fantasy_057": {
+"name": "먹물 바닐라",
+"category": "fantasy",
+"row": 5,
+"col": 6,
+"cls": "spice",
+"tags": [
+"향긋",
+"단맛"
+],
+"hearty": false
+},
+"fantasy_058": {
+"name": "나선 계피",
+"category": "fantasy",
+"row": 5,
+"col": 7,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fantasy_059": {
+"name": "향기 구슬",
+"category": "fantasy",
+"row": 5,
+"col": 8,
+"cls": "spice",
+"tags": [
+"향긋",
+"마력"
+],
+"hearty": false
+},
+"fantasy_060": {
+"name": "유리 설탕",
+"category": "fantasy",
+"row": 5,
+"col": 9,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_061": {
+"name": "바실리스크 알",
+"category": "fantasy",
+"row": 6,
+"col": 0,
+"cls": "egg",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"fantasy_062": {
+"name": "그리핀 알",
+"category": "fantasy",
+"row": 6,
+"col": 1,
+"cls": "egg",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"fantasy_063": {
+"name": "와이번 알",
+"category": "fantasy",
+"row": 6,
+"col": 2,
+"cls": "egg",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"fantasy_064": {
+"name": "코카트리스 알",
+"category": "fantasy",
+"row": 6,
+"col": 3,
+"cls": "egg",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"fantasy_065": {
+"name": "드레이크 우유",
+"category": "fantasy",
+"row": 6,
+"col": 4,
+"cls": "dairy",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": false
+},
+"fantasy_066": {
+"name": "무지개 치즈",
+"category": "fantasy",
+"row": 6,
+"col": 5,
+"cls": "dairy",
+"tags": [
+"고소",
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_067": {
+"name": "슬라임 젤리원액",
+"category": "fantasy",
+"row": 6,
+"col": 6,
+"cls": "sweet",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"fantasy_068": {
+"name": "뿔양 버터",
+"category": "fantasy",
+"row": 6,
+"col": 7,
+"cls": "dairy",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": false
+},
+"fantasy_069": {
+"name": "줄무늬 크림",
+"category": "fantasy",
+"row": 6,
+"col": 8,
+"cls": "dairy",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": false
+},
+"fantasy_070": {
+"name": "붉은 수액",
+"category": "fantasy",
+"row": 6,
+"col": 9,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_071": {
+"name": "비늘 송어",
+"category": "fantasy",
+"row": 7,
+"col": 0,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_072": {
+"name": "나선 새우",
+"category": "fantasy",
+"row": 7,
+"col": 1,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_073": {
+"name": "수정 조개",
+"category": "fantasy",
+"row": 7,
+"col": 2,
+"cls": "sea",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_074": {
+"name": "갑옷 가재",
+"category": "fantasy",
+"row": 7,
+"col": 3,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_075": {
+"name": "거울 정어리",
+"category": "fantasy",
+"row": 7,
+"col": 4,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_076": {
+"name": "풍선 복어",
+"category": "fantasy",
+"row": 7,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_077": {
+"name": "고리 오징어",
+"category": "fantasy",
+"row": 7,
+"col": 6,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_078": {
+"name": "리본 장어",
+"category": "fantasy",
+"row": 7,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_079": {
+"name": "구슬 해초",
+"category": "fantasy",
+"row": 7,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_080": {
+"name": "유리 성게",
+"category": "fantasy",
+"row": 7,
+"col": 9,
+"cls": "sea",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_081": {
+"name": "붉은 이끼",
+"category": "fantasy",
+"row": 8,
+"col": 0,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_082": {
+"name": "동굴 고사리",
+"category": "fantasy",
+"row": 8,
+"col": 1,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_083": {
+"name": "수정 죽순",
+"category": "fantasy",
+"row": 8,
+"col": 2,
+"cls": "veg",
+"tags": [
+"마력"
+],
+"hearty": false
+},
+"fantasy_084": {
+"name": "나선 순무",
+"category": "fantasy",
+"row": 8,
+"col": 3,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fantasy_085": {
+"name": "무지개 렌틸콩",
+"category": "fantasy",
+"row": 8,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"fantasy_086": {
+"name": "줄무늬 연근",
+"category": "fantasy",
+"row": 8,
+"col": 5,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fantasy_087": {
+"name": "비늘 아티초크",
+"category": "fantasy",
+"row": 8,
+"col": 6,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_088": {
+"name": "구름송이 채소",
+"category": "fantasy",
+"row": 8,
+"col": 7,
+"cls": "veg",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fantasy_089": {
+"name": "별구멍 오크라",
+"category": "fantasy",
+"row": 8,
+"col": 8,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fantasy_090": {
+"name": "고리 호박씨",
+"category": "fantasy",
+"row": 8,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fantasy_091": {
+"name": "마력 소금",
+"category": "fantasy",
+"row": 9,
+"col": 0,
+"cls": "season",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_092": {
+"name": "자색 전분",
+"category": "fantasy",
+"row": 9,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fantasy_093": {
+"name": "청동 코코아",
+"category": "fantasy",
+"row": 9,
+"col": 2,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_094": {
+"name": "투명 커피콩",
+"category": "fantasy",
+"row": 9,
+"col": 3,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fantasy_095": {
+"name": "나선 찻잎",
+"category": "fantasy",
+"row": 9,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fantasy_096": {
+"name": "붉은 누룩",
+"category": "fantasy",
+"row": 9,
+"col": 5,
+"cls": "season",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"fantasy_097": {
+"name": "오색 꽃가루",
+"category": "fantasy",
+"row": 9,
+"col": 6,
+"cls": "flower",
+"tags": [
+"꽃향",
+"마력"
+],
+"hearty": false
+},
+"fantasy_098": {
+"name": "수정 꿀",
+"category": "fantasy",
+"row": 9,
+"col": 7,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"fantasy_099": {
+"name": "진주 효모",
+"category": "fantasy",
+"row": 9,
+"col": 8,
+"cls": "grain",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"fantasy_100": {
+"name": "무지개 젤라틴",
+"category": "fantasy",
+"row": 9,
+"col": 9,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"xian_immortal_peach": {
+"name": "선도복숭아",
+"category": "xian",
+"row": 0,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"마력",
+"상큼"
+],
+"hearty": false
+},
+"xian_jade_dew_pear": {
+"name": "옥결배",
+"category": "xian",
+"row": 0,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_mist_plum": {
+"name": "운무매실",
+"category": "xian",
+"row": 0,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_white_cloud_persimmon": {
+"name": "백운감",
+"category": "xian",
+"row": 0,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_azure_scale_grapes": {
+"name": "청린포도",
+"category": "xian",
+"row": 0,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_golden_citron": {
+"name": "황금유자",
+"category": "xian",
+"row": 0,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_red_lotus_pomegranate": {
+"name": "홍연석류",
+"category": "xian",
+"row": 0,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_cloud_mountain_jujube": {
+"name": "운산대추",
+"category": "xian",
+"row": 0,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_jade_fig": {
+"name": "비취무화과",
+"category": "xian",
+"row": 0,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_moonwhite_apricot": {
+"name": "월백살구",
+"category": "xian",
+"row": 0,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_cloud_cherries": {
+"name": "구름앵두",
+"category": "xian",
+"row": 1,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_jade_raspberry": {
+"name": "청옥산딸기",
+"category": "xian",
+"row": 1,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_lotus_kiwi": {
+"name": "연화다래",
+"category": "xian",
+"row": 1,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_five_hue_mulberry": {
+"name": "오색오디",
+"category": "xian",
+"row": 1,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"xian_spirit_mandarin": {
+"name": "영롱감귤",
+"category": "xian",
+"row": 1,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_snow_cloud_citrus": {
+"name": "설운귤",
+"category": "xian",
+"row": 1,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_sea_mist_plum": {
+"name": "해무자두",
+"category": "xian",
+"row": 1,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_purple_cloud_loquat": {
+"name": "자운비파",
+"category": "xian",
+"row": 1,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_golden_spirit_quince": {
+"name": "금령모과",
+"category": "xian",
+"row": 1,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_rouge_cornel_berries": {
+"name": "연지산수유",
+"category": "xian",
+"row": 1,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"xian_jade_radish": {
+"name": "옥수무",
+"category": "xian",
+"row": 2,
+"col": 0,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_white_spirit_turnip": {
+"name": "백령순무",
+"category": "xian",
+"row": 2,
+"col": 1,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_azure_dragon_carrot": {
+"name": "청룡당근",
+"category": "xian",
+"row": 2,
+"col": 2,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"xian_spirit_lotus_root": {
+"name": "영지연근",
+"category": "xian",
+"row": 2,
+"col": 3,
+"cls": "root",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"xian_golden_immortal_burdock": {
+"name": "금선우엉",
+"category": "xian",
+"row": 2,
+"col": 4,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_cloud_yam": {
+"name": "운근마",
+"category": "xian",
+"row": 2,
+"col": 5,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_violet_jade_taro": {
+"name": "자옥토란",
+"category": "xian",
+"row": 2,
+"col": 6,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_white_crane_ginger": {
+"name": "백학생강",
+"category": "xian",
+"row": 2,
+"col": 7,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"xian_cloud_sweet_potato": {
+"name": "구름고구마",
+"category": "xian",
+"row": 2,
+"col": 8,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"xian_silverbeard_deodeok": {
+"name": "은수더덕",
+"category": "xian",
+"row": 2,
+"col": 9,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"xian_white_cloud_mushroom": {
+"name": "백운송이",
+"category": "xian",
+"row": 3,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_jade_shiitake": {
+"name": "옥빛표고",
+"category": "xian",
+"row": 3,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_purple_cloud_oyster": {
+"name": "자운느타리",
+"category": "xian",
+"row": 3,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_yellow_jade_enoki": {
+"name": "황옥팽이",
+"category": "xian",
+"row": 3,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_white_crane_truffle": {
+"name": "백학송로",
+"category": "xian",
+"row": 3,
+"col": 4,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_mist_wood_ear": {
+"name": "운무목이",
+"category": "xian",
+"row": 3,
+"col": 5,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_azure_spirit_shimeji": {
+"name": "청령만가닥",
+"category": "xian",
+"row": 3,
+"col": 6,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_red_cloud_coral_fungus": {
+"name": "홍운싸리버섯",
+"category": "xian",
+"row": 3,
+"col": 7,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_lotus_cap_mushroom": {
+"name": "연화갓버섯",
+"category": "xian",
+"row": 3,
+"col": 8,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_golden_thread_cordyceps": {
+"name": "금실동충초",
+"category": "xian",
+"row": 3,
+"col": 9,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"xian_clearheart_mint": {
+"name": "청심박하",
+"category": "xian",
+"row": 4,
+"col": 0,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_white_dew_mugwort": {
+"name": "백로쑥",
+"category": "xian",
+"row": 4,
+"col": 1,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_jade_leaf_tea": {
+"name": "옥엽차",
+"category": "xian",
+"row": 4,
+"col": 2,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_cloud_fragrance_chives": {
+"name": "운향부추",
+"category": "xian",
+"row": 4,
+"col": 3,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_moonreflection_scallion": {
+"name": "월영파",
+"category": "xian",
+"row": 4,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_silver_pine_needles": {
+"name": "은솔잎",
+"category": "xian",
+"row": 4,
+"col": 5,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_sandalwood_perilla": {
+"name": "단향깻잎",
+"category": "xian",
+"row": 4,
+"col": 6,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_ancient_fern": {
+"name": "천년고사리",
+"category": "xian",
+"row": 4,
+"col": 7,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_spirit_water_dropwort": {
+"name": "영선미나리",
+"category": "xian",
+"row": 4,
+"col": 8,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_azure_bamboo_shoot": {
+"name": "청죽순",
+"category": "xian",
+"row": 4,
+"col": 9,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"xian_white_cloud_rice": {
+"name": "백운쌀",
+"category": "xian",
+"row": 5,
+"col": 0,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_jade_wheat": {
+"name": "청옥밀",
+"category": "xian",
+"row": 5,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_golden_sorghum": {
+"name": "금수수",
+"category": "xian",
+"row": 5,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_silver_millet": {
+"name": "은기장",
+"category": "xian",
+"row": 5,
+"col": 3,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_purple_cloud_foxtail": {
+"name": "자운조",
+"category": "xian",
+"row": 5,
+"col": 4,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_spirit_mountain_buckwheat": {
+"name": "영산메밀",
+"category": "xian",
+"row": 5,
+"col": 5,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"xian_jade_chestnut": {
+"name": "옥빛밤",
+"category": "xian",
+"row": 5,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_white_immortal_pine_nuts": {
+"name": "백선잣",
+"category": "xian",
+"row": 5,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_azure_spirit_walnut": {
+"name": "청령호두",
+"category": "xian",
+"row": 5,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_lotus_acorn": {
+"name": "연화도토리",
+"category": "xian",
+"row": 5,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_white_lotus": {
+"name": "백련꽃",
+"category": "xian",
+"row": 6,
+"col": 0,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_red_lotus_stamens": {
+"name": "홍련꽃술",
+"category": "xian",
+"row": 6,
+"col": 1,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_blue_lotus_seeds": {
+"name": "청련씨",
+"category": "xian",
+"row": 6,
+"col": 2,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_golden_osmanthus": {
+"name": "금목서꽃",
+"category": "xian",
+"row": 6,
+"col": 3,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_silver_plum_blossom": {
+"name": "은매화",
+"category": "xian",
+"row": 6,
+"col": 4,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_blush_peony": {
+"name": "연분홍작약",
+"category": "xian",
+"row": 6,
+"col": 5,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_jade_chrysanthemum": {
+"name": "옥빛국화",
+"category": "xian",
+"row": 6,
+"col": 6,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_orchid_petals": {
+"name": "난초꽃잎",
+"category": "xian",
+"row": 6,
+"col": 7,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"xian_immortal_fennel": {
+"name": "선향회향",
+"category": "xian",
+"row": 6,
+"col": 8,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_red_jade_sichuan_pepper": {
+"name": "홍옥산초",
+"category": "xian",
+"row": 6,
+"col": 9,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"xian_jade_peas": {
+"name": "비취완두",
+"category": "xian",
+"row": 7,
+"col": 0,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_white_cloud_beans": {
+"name": "백운콩",
+"category": "xian",
+"row": 7,
+"col": 1,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_purple_embroidery_adzuki": {
+"name": "자수팥",
+"category": "xian",
+"row": 7,
+"col": 2,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_golden_arhat_beans": {
+"name": "금나한콩",
+"category": "xian",
+"row": 7,
+"col": 3,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_lotus_leaf_cabbage": {
+"name": "연잎배추",
+"category": "xian",
+"row": 7,
+"col": 4,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"xian_azure_mist_cabbage": {
+"name": "청하양배추",
+"category": "xian",
+"row": 7,
+"col": 5,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"xian_cloud_peak_squash": {
+"name": "운봉호박",
+"category": "xian",
+"row": 7,
+"col": 6,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_jade_dew_cucumber": {
+"name": "옥결오이",
+"category": "xian",
+"row": 7,
+"col": 7,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"xian_azure_cloud_eggplant": {
+"name": "청운가지",
+"category": "xian",
+"row": 7,
+"col": 8,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"xian_golden_immortal_corn": {
+"name": "금선옥수수",
+"category": "xian",
+"row": 7,
+"col": 9,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_mist_salt": {
+"name": "운무소금",
+"category": "xian",
+"row": 8,
+"col": 0,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_jade_rock_salt": {
+"name": "옥빛암염",
+"category": "xian",
+"row": 8,
+"col": 1,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_osmanthus_honey": {
+"name": "금계꿀",
+"category": "xian",
+"row": 8,
+"col": 2,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"xian_lotus_nectar": {
+"name": "연꽃꿀",
+"category": "xian",
+"row": 8,
+"col": 3,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"xian_white_cloud_chili": {
+"name": "백운고추",
+"category": "xian",
+"row": 8,
+"col": 4,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"xian_azure_dragon_pepper": {
+"name": "청룡후추",
+"category": "xian",
+"row": 8,
+"col": 5,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"xian_purple_cloud_sesame": {
+"name": "자운참깨",
+"category": "xian",
+"row": 8,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_silverbeard_mustard": {
+"name": "은수겨자",
+"category": "xian",
+"row": 8,
+"col": 7,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"xian_lotus_fragrance_cinnamon": {
+"name": "연향계피",
+"category": "xian",
+"row": 8,
+"col": 8,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_orchid_fragrant_herb": {
+"name": "유란향초",
+"category": "xian",
+"row": 8,
+"col": 9,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"xian_white_crane_egg": {
+"name": "백학알",
+"category": "xian",
+"row": 9,
+"col": 0,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_azure_pheasant_egg": {
+"name": "청란알",
+"category": "xian",
+"row": 9,
+"col": 1,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_jade_carp": {
+"name": "옥잉어",
+"category": "xian",
+"row": 9,
+"col": 2,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_cloud_quail_eggs": {
+"name": "운계메추리알",
+"category": "xian",
+"row": 9,
+"col": 3,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"xian_silverbeard_shrimp": {
+"name": "은수새우",
+"category": "xian",
+"row": 9,
+"col": 4,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_blue_lotus_scallop": {
+"name": "청연가리비",
+"category": "xian",
+"row": 9,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_cloud_mountain_goat_milk": {
+"name": "운산산양유",
+"category": "xian",
+"row": 9,
+"col": 6,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"xian_jade_lotus_seaweed": {
+"name": "옥련해초",
+"category": "xian",
+"row": 9,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_clearstream_river_crab": {
+"name": "청계민물게",
+"category": "xian",
+"row": 9,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"xian_pond_water_caltrop": {
+"name": "연못마름열매",
+"category": "xian",
+"row": 9,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_ink_apple": {
+"name": "먹빛사과",
+"category": "demon",
+"row": 0,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_abyss_pear": {
+"name": "심연배",
+"category": "demon",
+"row": 0,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"demon_blackhorn_pomegranate": {
+"name": "흑각석류",
+"category": "demon",
+"row": 0,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_crimson_blood_orange": {
+"name": "자홍혈오렌지",
+"category": "demon",
+"row": 0,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_singed_persimmon": {
+"name": "그을린감",
+"category": "demon",
+"row": 0,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"demon_black_fig": {
+"name": "검은무화과",
+"category": "demon",
+"row": 0,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"demon_lava_peach": {
+"name": "용암복숭아",
+"category": "demon",
+"row": 0,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"매운맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_nightmist_plum": {
+"name": "밤안개자두",
+"category": "demon",
+"row": 0,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"고소"
+],
+"hearty": false
+},
+"demon_beast_citron": {
+"name": "마수유자",
+"category": "demon",
+"row": 0,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"demon_twinhorn_banana": {
+"name": "쌍뿔바나나",
+"category": "demon",
+"row": 0,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_shadow_grapes": {
+"name": "그림자포도",
+"category": "demon",
+"row": 1,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_blackpearl_blackberry": {
+"name": "흑진주블랙베리",
+"category": "demon",
+"row": 1,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"demon_amethyst_raspberry": {
+"name": "자수정산딸기",
+"category": "demon",
+"row": 1,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"demon_blooddrop_cherries": {
+"name": "핏방울앵두",
+"category": "demon",
+"row": 1,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_ash_blueberries": {
+"name": "재빛블루베리",
+"category": "demon",
+"row": 1,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_darkred_mulberry": {
+"name": "검붉은오디",
+"category": "demon",
+"row": 1,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_inkthorn_berry": {
+"name": "먹가시베리",
+"category": "demon",
+"row": 1,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_shade_goji": {
+"name": "음영구기자",
+"category": "demon",
+"row": 1,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_redeye_gooseberry": {
+"name": "붉은눈구스베리",
+"category": "demon",
+"row": 1,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_purpleblack_currant": {
+"name": "자흑까막까치밥",
+"category": "demon",
+"row": 1,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"demon_volcanic_carrot": {
+"name": "화산당근",
+"category": "demon",
+"row": 2,
+"col": 0,
+"cls": "root",
+"tags": [
+"매운맛",
+"단맛"
+],
+"hearty": true
+},
+"demon_blackmoon_radish": {
+"name": "흑월무",
+"category": "demon",
+"row": 2,
+"col": 1,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_ash_turnip": {
+"name": "잿빛순무",
+"category": "demon",
+"row": 2,
+"col": 2,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_pebble_potato": {
+"name": "자갈감자",
+"category": "demon",
+"row": 2,
+"col": 3,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_lava_sweet_potato": {
+"name": "용암고구마",
+"category": "demon",
+"row": 2,
+"col": 4,
+"cls": "root",
+"tags": [
+"매운맛",
+"단맛"
+],
+"hearty": true
+},
+"demon_demon_burdock": {
+"name": "마각우엉",
+"category": "demon",
+"row": 2,
+"col": 5,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"demon_redvein_ginger": {
+"name": "붉은골생강",
+"category": "demon",
+"row": 2,
+"col": 6,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"demon_black_lotus_root": {
+"name": "흑수련연근",
+"category": "demon",
+"row": 2,
+"col": 7,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_abyss_taro": {
+"name": "심연토란",
+"category": "demon",
+"row": 2,
+"col": 8,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_blackflame_yam": {
+"name": "검은염마",
+"category": "demon",
+"row": 2,
+"col": 9,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"demon_blackcap_shiitake": {
+"name": "흑갓표고",
+"category": "demon",
+"row": 3,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_bloodmist_oyster": {
+"name": "혈무리느타리",
+"category": "demon",
+"row": 3,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_grayhorn_enoki": {
+"name": "회색뿔팽이",
+"category": "demon",
+"row": 3,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_ash_truffle": {
+"name": "재송로",
+"category": "demon",
+"row": 3,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_demon_wood_ear": {
+"name": "마계목이",
+"category": "demon",
+"row": 3,
+"col": 4,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_rediron_mushroom": {
+"name": "적철광버섯",
+"category": "demon",
+"row": 3,
+"col": 5,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_raven_mushroom": {
+"name": "까마귀송이",
+"category": "demon",
+"row": 3,
+"col": 6,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_purple_coral_fungus": {
+"name": "자주산호버섯",
+"category": "demon",
+"row": 3,
+"col": 7,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_blackbell_shimeji": {
+"name": "검은방울만가닥",
+"category": "demon",
+"row": 3,
+"col": 8,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_volcanic_scale_mushroom": {
+"name": "화산비늘버섯",
+"category": "demon",
+"row": 3,
+"col": 9,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"매운맛"
+],
+"hearty": false
+},
+"demon_black_mint": {
+"name": "흑박하",
+"category": "demon",
+"row": 4,
+"col": 0,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_ember_coriander": {
+"name": "불씨고수",
+"category": "demon",
+"row": 4,
+"col": 1,
+"cls": "herb",
+"tags": [
+"향긋",
+"매운맛"
+],
+"hearty": false
+},
+"demon_purple_mugwort": {
+"name": "자주쑥",
+"category": "demon",
+"row": 4,
+"col": 2,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_soot_chives": {
+"name": "그을음부추",
+"category": "demon",
+"row": 4,
+"col": 3,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_redvein_perilla": {
+"name": "적맥깻잎",
+"category": "demon",
+"row": 4,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_black_rosemary": {
+"name": "검은로즈마리",
+"category": "demon",
+"row": 4,
+"col": 5,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_ash_bitterleaf": {
+"name": "잿빛쌉싸름잎",
+"category": "demon",
+"row": 4,
+"col": 6,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_horn_fern": {
+"name": "뿔고사리",
+"category": "demon",
+"row": 4,
+"col": 7,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_redstem_dropwort": {
+"name": "붉은줄기미나리",
+"category": "demon",
+"row": 4,
+"col": 8,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_blackfragrance_basil": {
+"name": "흑향바질",
+"category": "demon",
+"row": 4,
+"col": 9,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_black_wheat": {
+"name": "흑밀",
+"category": "demon",
+"row": 5,
+"col": 0,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"demon_darkred_barley": {
+"name": "검붉은보리",
+"category": "demon",
+"row": 5,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"demon_ash_rice": {
+"name": "잿빛쌀",
+"category": "demon",
+"row": 5,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"demon_lava_sorghum": {
+"name": "용암수수",
+"category": "demon",
+"row": 5,
+"col": 3,
+"cls": "grain",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"demon_abyss_millet": {
+"name": "심연기장",
+"category": "demon",
+"row": 5,
+"col": 4,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"demon_pebble_buckwheat": {
+"name": "자갈메밀",
+"category": "demon",
+"row": 5,
+"col": 5,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"demon_blackhorn_chestnut": {
+"name": "검은뿔밤",
+"category": "demon",
+"row": 5,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_demon_black_walnut": {
+"name": "흑마호두",
+"category": "demon",
+"row": 5,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_redheart_acorn": {
+"name": "붉은속도토리",
+"category": "demon",
+"row": 5,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_ash_almond": {
+"name": "잿빛아몬드",
+"category": "demon",
+"row": 5,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_lava_squash": {
+"name": "용암호박",
+"category": "demon",
+"row": 6,
+"col": 0,
+"cls": "veg",
+"tags": [
+"매운맛",
+"단맛"
+],
+"hearty": false
+},
+"demon_blackscale_cucumber": {
+"name": "흑비늘오이",
+"category": "demon",
+"row": 6,
+"col": 1,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"demon_purpleblack_eggplant": {
+"name": "자흑가지",
+"category": "demon",
+"row": 6,
+"col": 2,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"demon_blackleaf_cabbage": {
+"name": "검은잎양배추",
+"category": "demon",
+"row": 6,
+"col": 3,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"demon_ash_napa": {
+"name": "잿빛배추",
+"category": "demon",
+"row": 6,
+"col": 4,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"demon_redgarnet_tomato": {
+"name": "적옥토마토",
+"category": "demon",
+"row": 6,
+"col": 5,
+"cls": "veg",
+"tags": [
+"상큼"
+],
+"hearty": false
+},
+"demon_beast_peas": {
+"name": "마수완두",
+"category": "demon",
+"row": 6,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"demon_blackscythe_beans": {
+"name": "검은낫콩",
+"category": "demon",
+"row": 6,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_ember_adzuki": {
+"name": "불씨팥",
+"category": "demon",
+"row": 6,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소",
+"매운맛"
+],
+"hearty": true
+},
+"demon_purpleblack_lentils": {
+"name": "자흑렌틸",
+"category": "demon",
+"row": 6,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_demonhorn_chili": {
+"name": "마각고추",
+"category": "demon",
+"row": 7,
+"col": 0,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"demon_redfang_chili": {
+"name": "붉은송곳고추",
+"category": "demon",
+"row": 7,
+"col": 1,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"demon_blackflame_pepper": {
+"name": "흑염후추",
+"category": "demon",
+"row": 7,
+"col": 2,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"demon_volcanic_sichuan_pepper": {
+"name": "화산산초",
+"category": "demon",
+"row": 7,
+"col": 3,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"demon_singed_star_anise": {
+"name": "그을린팔각",
+"category": "demon",
+"row": 7,
+"col": 4,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_purpleblack_cinnamon": {
+"name": "자흑계피",
+"category": "demon",
+"row": 7,
+"col": 5,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"demon_black_sesame": {
+"name": "검은참깨",
+"category": "demon",
+"row": 7,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_demon_mustard": {
+"name": "마계겨자",
+"category": "demon",
+"row": 7,
+"col": 7,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"demon_black_chrysanthemum": {
+"name": "검은국화",
+"category": "demon",
+"row": 7,
+"col": 8,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"demon_redeye_carnation": {
+"name": "적안카네이션",
+"category": "demon",
+"row": 7,
+"col": 9,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"demon_volcanic_rock_salt": {
+"name": "화산암염",
+"category": "demon",
+"row": 8,
+"col": 0,
+"cls": "season",
+"tags": [
+"감칠",
+"매운맛"
+],
+"hearty": false
+},
+"demon_ironred_salt": {
+"name": "적철소금",
+"category": "demon",
+"row": 8,
+"col": 1,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_black_sugar_sap": {
+"name": "흑당수액",
+"category": "demon",
+"row": 8,
+"col": 2,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"demon_soot_honey": {
+"name": "그을음꿀",
+"category": "demon",
+"row": 8,
+"col": 3,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"demon_abyss_seaweed": {
+"name": "심연해초",
+"category": "demon",
+"row": 8,
+"col": 4,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_darkred_laver": {
+"name": "검붉은김",
+"category": "demon",
+"row": 8,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_beasthorn_garlic": {
+"name": "마수뿔마늘",
+"category": "demon",
+"row": 8,
+"col": 6,
+"cls": "spice",
+"tags": [
+"매운맛",
+"마력"
+],
+"hearty": false
+},
+"demon_ember_onion": {
+"name": "불씨양파",
+"category": "demon",
+"row": 8,
+"col": 7,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"demon_blackresin_pine_seeds": {
+"name": "검은송진솔씨",
+"category": "demon",
+"row": 8,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_purple_rose_petals": {
+"name": "자주장미꽃잎",
+"category": "demon",
+"row": 8,
+"col": 9,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"demon_beast_milk": {
+"name": "마수우유",
+"category": "demon",
+"row": 9,
+"col": 0,
+"cls": "dairy",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": false
+},
+"demon_blackflame_goat_milk": {
+"name": "흑염산양유",
+"category": "demon",
+"row": 9,
+"col": 1,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"demon_ink_quail_eggs": {
+"name": "먹빛메추리알",
+"category": "demon",
+"row": 9,
+"col": 2,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_redspot_duck_egg": {
+"name": "붉은점오리알",
+"category": "demon",
+"row": 9,
+"col": 3,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_blackhorn_bird_egg": {
+"name": "검은뿔새알",
+"category": "demon",
+"row": 9,
+"col": 4,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"demon_purple_river_shrimp": {
+"name": "자줏빛민물새우",
+"category": "demon",
+"row": 9,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_blackshell_crab": {
+"name": "흑갑게",
+"category": "demon",
+"row": 9,
+"col": 6,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_redscale_trout": {
+"name": "적비늘송어",
+"category": "demon",
+"row": 9,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_abyss_scallop": {
+"name": "심연가리비",
+"category": "demon",
+"row": 9,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"demon_black_freshwater_clam": {
+"name": "검은담수조개",
+"category": "demon",
+"row": 9,
+"col": 9,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_001": {
+"name": "햇살 배",
+"category": "heaven",
+"row": 0,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"heaven_002": {
+"name": "새벽 사과",
+"category": "heaven",
+"row": 0,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"heaven_003": {
+"name": "빛고리 복숭아",
+"category": "heaven",
+"row": 0,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"heaven_004": {
+"name": "황금 포도",
+"category": "heaven",
+"row": 0,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"heaven_005": {
+"name": "뭉게 멜론",
+"category": "heaven",
+"row": 0,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"heaven_006": {
+"name": "별빛 귤",
+"category": "heaven",
+"row": 0,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"heaven_007": {
+"name": "은빛 무화과",
+"category": "heaven",
+"row": 0,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"heaven_008": {
+"name": "무지개 산딸기",
+"category": "heaven",
+"row": 0,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"마력"
+],
+"hearty": false
+},
+"heaven_009": {
+"name": "하늘 체리",
+"category": "heaven",
+"row": 0,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"heaven_010": {
+"name": "달빛 감",
+"category": "heaven",
+"row": 0,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"heaven_011": {
+"name": "구름 양배추",
+"category": "heaven",
+"row": 1,
+"col": 0,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_012": {
+"name": "상아 콜리플라워",
+"category": "heaven",
+"row": 1,
+"col": 1,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_013": {
+"name": "노을 파프리카",
+"category": "heaven",
+"row": 1,
+"col": 2,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_014": {
+"name": "은잎 상추",
+"category": "heaven",
+"row": 1,
+"col": 3,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_015": {
+"name": "햇살 호박",
+"category": "heaven",
+"row": 1,
+"col": 4,
+"cls": "veg",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"heaven_016": {
+"name": "창공 가지",
+"category": "heaven",
+"row": 1,
+"col": 5,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_017": {
+"name": "별무늬 오이",
+"category": "heaven",
+"row": 1,
+"col": 6,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_018": {
+"name": "새벽 애호박",
+"category": "heaven",
+"row": 1,
+"col": 7,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_019": {
+"name": "금빛 토마토",
+"category": "heaven",
+"row": 1,
+"col": 8,
+"cls": "veg",
+"tags": [
+"상큼"
+],
+"hearty": false
+},
+"heaven_020": {
+"name": "빛잎 방울양배추",
+"category": "heaven",
+"row": 1,
+"col": 9,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"heaven_021": {
+"name": "혜성 당근",
+"category": "heaven",
+"row": 2,
+"col": 0,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"heaven_022": {
+"name": "상아 무",
+"category": "heaven",
+"row": 2,
+"col": 1,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_023": {
+"name": "구름 감자",
+"category": "heaven",
+"row": 2,
+"col": 2,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_024": {
+"name": "여명 고구마",
+"category": "heaven",
+"row": 2,
+"col": 3,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"heaven_025": {
+"name": "은빛 연근",
+"category": "heaven",
+"row": 2,
+"col": 4,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_026": {
+"name": "금빛 비트",
+"category": "heaven",
+"row": 2,
+"col": 5,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"heaven_027": {
+"name": "하늘 순무",
+"category": "heaven",
+"row": 2,
+"col": 6,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_028": {
+"name": "햇살 생강",
+"category": "heaven",
+"row": 2,
+"col": 7,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"heaven_029": {
+"name": "빛뿌리 우엉",
+"category": "heaven",
+"row": 2,
+"col": 8,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_030": {
+"name": "별뿌리 마",
+"category": "heaven",
+"row": 2,
+"col": 9,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"heaven_031": {
+"name": "황금 밀",
+"category": "heaven",
+"row": 3,
+"col": 0,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_032": {
+"name": "구름 쌀",
+"category": "heaven",
+"row": 3,
+"col": 1,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_033": {
+"name": "햇살 보리",
+"category": "heaven",
+"row": 3,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_034": {
+"name": "별빛 귀리",
+"category": "heaven",
+"row": 3,
+"col": 3,
+"cls": "grain",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"heaven_035": {
+"name": "무지개 기장",
+"category": "heaven",
+"row": 3,
+"col": 4,
+"cls": "grain",
+"tags": [
+"마력"
+],
+"hearty": true
+},
+"heaven_036": {
+"name": "은빛 메밀",
+"category": "heaven",
+"row": 3,
+"col": 5,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_037": {
+"name": "여명 옥수수",
+"category": "heaven",
+"row": 3,
+"col": 6,
+"cls": "grain",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"heaven_038": {
+"name": "빛알 퀴노아",
+"category": "heaven",
+"row": 3,
+"col": 7,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_039": {
+"name": "하늘 조",
+"category": "heaven",
+"row": 3,
+"col": 8,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_040": {
+"name": "구름팝 수수",
+"category": "heaven",
+"row": 3,
+"col": 9,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_041": {
+"name": "햇살 호두",
+"category": "heaven",
+"row": 4,
+"col": 0,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_042": {
+"name": "빛고리 아몬드",
+"category": "heaven",
+"row": 4,
+"col": 1,
+"cls": "nut",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"heaven_043": {
+"name": "은빛 밤",
+"category": "heaven",
+"row": 4,
+"col": 2,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_044": {
+"name": "창공 피스타치오",
+"category": "heaven",
+"row": 4,
+"col": 3,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_045": {
+"name": "황금 캐슈",
+"category": "heaven",
+"row": 4,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_046": {
+"name": "별꽃 잣",
+"category": "heaven",
+"row": 4,
+"col": 5,
+"cls": "nut",
+"tags": [
+"고소",
+"꽃향"
+],
+"hearty": true
+},
+"heaven_047": {
+"name": "여명 해바라기씨",
+"category": "heaven",
+"row": 4,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_048": {
+"name": "무지개 참깨",
+"category": "heaven",
+"row": 4,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": true
+},
+"heaven_049": {
+"name": "구름 호박씨",
+"category": "heaven",
+"row": 4,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_050": {
+"name": "하늘 도토리",
+"category": "heaven",
+"row": 4,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_051": {
+"name": "빛잎 바질",
+"category": "heaven",
+"row": 5,
+"col": 0,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_052": {
+"name": "새벽 민트",
+"category": "heaven",
+"row": 5,
+"col": 1,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_053": {
+"name": "은향 로즈메리",
+"category": "heaven",
+"row": 5,
+"col": 2,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_054": {
+"name": "햇살 타임",
+"category": "heaven",
+"row": 5,
+"col": 3,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_055": {
+"name": "구름 세이지",
+"category": "heaven",
+"row": 5,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_056": {
+"name": "금빛 샤프란",
+"category": "heaven",
+"row": 5,
+"col": 5,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_057": {
+"name": "별꽃 카모마일",
+"category": "heaven",
+"row": 5,
+"col": 6,
+"cls": "herb",
+"tags": [
+"향긋",
+"꽃향"
+],
+"hearty": false
+},
+"heaven_058": {
+"name": "여명 장미꽃잎",
+"category": "heaven",
+"row": 5,
+"col": 7,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"heaven_059": {
+"name": "천빛 제비꽃",
+"category": "heaven",
+"row": 5,
+"col": 8,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"heaven_060": {
+"name": "빛망울 한련화",
+"category": "heaven",
+"row": 5,
+"col": 9,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"heaven_061": {
+"name": "구름 송이버섯",
+"category": "heaven",
+"row": 6,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_062": {
+"name": "햇살 느타리",
+"category": "heaven",
+"row": 6,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_063": {
+"name": "은빛 표고",
+"category": "heaven",
+"row": 6,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_064": {
+"name": "별반점 양송이",
+"category": "heaven",
+"row": 6,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_065": {
+"name": "빛고리 팽이",
+"category": "heaven",
+"row": 6,
+"col": 4,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"heaven_066": {
+"name": "여명 만가닥",
+"category": "heaven",
+"row": 6,
+"col": 5,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_067": {
+"name": "금빛 곰보버섯",
+"category": "heaven",
+"row": 6,
+"col": 6,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_068": {
+"name": "하늘 노루궁뎅이버섯",
+"category": "heaven",
+"row": 6,
+"col": 7,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_069": {
+"name": "구름 목이버섯",
+"category": "heaven",
+"row": 6,
+"col": 8,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_070": {
+"name": "천상 트러플",
+"category": "heaven",
+"row": 6,
+"col": 9,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"heaven_071": {
+"name": "별빛 우유",
+"category": "heaven",
+"row": 7,
+"col": 0,
+"cls": "dairy",
+"tags": [
+"고소",
+"마력"
+],
+"hearty": false
+},
+"heaven_072": {
+"name": "햇살 크림",
+"category": "heaven",
+"row": 7,
+"col": 1,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"heaven_073": {
+"name": "구름 버터",
+"category": "heaven",
+"row": 7,
+"col": 2,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"heaven_074": {
+"name": "금빛 치즈",
+"category": "heaven",
+"row": 7,
+"col": 3,
+"cls": "dairy",
+"tags": [
+"고소",
+"감칠"
+],
+"hearty": false
+},
+"heaven_075": {
+"name": "새벽 요거트",
+"category": "heaven",
+"row": 7,
+"col": 4,
+"cls": "dairy",
+"tags": [
+"고소",
+"상큼"
+],
+"hearty": false
+},
+"heaven_076": {
+"name": "빛구름 달걀",
+"category": "heaven",
+"row": 7,
+"col": 5,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_077": {
+"name": "별무늬 메추리알",
+"category": "heaven",
+"row": 7,
+"col": 6,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_078": {
+"name": "금관 거위알",
+"category": "heaven",
+"row": 7,
+"col": 7,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"heaven_079": {
+"name": "하늘 벌꿀",
+"category": "heaven",
+"row": 7,
+"col": 8,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"heaven_080": {
+"name": "무지개 꽃꿀",
+"category": "heaven",
+"row": 7,
+"col": 9,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향",
+"마력"
+],
+"hearty": false
+},
+"heaven_081": {
+"name": "무지개 결정소금",
+"category": "heaven",
+"row": 8,
+"col": 0,
+"cls": "season",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"heaven_082": {
+"name": "별빛 설탕",
+"category": "heaven",
+"row": 8,
+"col": 1,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"heaven_083": {
+"name": "햇살 강황",
+"category": "heaven",
+"row": 8,
+"col": 2,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"heaven_084": {
+"name": "은향 흰후추",
+"category": "heaven",
+"row": 8,
+"col": 3,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"heaven_085": {
+"name": "여명 분홍후추",
+"category": "heaven",
+"row": 8,
+"col": 4,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"heaven_086": {
+"name": "천상 바닐라",
+"category": "heaven",
+"row": 8,
+"col": 5,
+"cls": "sweet",
+"tags": [
+"단맛",
+"마력"
+],
+"hearty": false
+},
+"heaven_087": {
+"name": "빛고리 계피",
+"category": "heaven",
+"row": 8,
+"col": 6,
+"cls": "spice",
+"tags": [
+"향긋",
+"마력"
+],
+"hearty": false
+},
+"heaven_088": {
+"name": "구름 전분",
+"category": "heaven",
+"row": 8,
+"col": 7,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"heaven_089": {
+"name": "금빛 식용꽃가루",
+"category": "heaven",
+"row": 8,
+"col": 8,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"heaven_090": {
+"name": "별눈 꽃소금",
+"category": "heaven",
+"row": 8,
+"col": 9,
+"cls": "season",
+"tags": [
+"감칠",
+"꽃향"
+],
+"hearty": false
+},
+"heaven_091": {
+"name": "구름새 가슴살",
+"category": "heaven",
+"row": 9,
+"col": 0,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"heaven_092": {
+"name": "햇살 메추리 다리",
+"category": "heaven",
+"row": 9,
+"col": 1,
+"cls": "meat",
+"tags": [
+"감칠"
+],
+"hearty": true
+},
+"heaven_093": {
+"name": "은빛 흰살생선",
+"category": "heaven",
+"row": 9,
+"col": 2,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_094": {
+"name": "하늘 송어",
+"category": "heaven",
+"row": 9,
+"col": 3,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_095": {
+"name": "빛비늘 가리비",
+"category": "heaven",
+"row": 9,
+"col": 4,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_096": {
+"name": "무지개 조개",
+"category": "heaven",
+"row": 9,
+"col": 5,
+"cls": "sea",
+"tags": [
+"감칠",
+"마력"
+],
+"hearty": false
+},
+"heaven_097": {
+"name": "별꼬리 새우",
+"category": "heaven",
+"row": 9,
+"col": 6,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_098": {
+"name": "금빛 성게알",
+"category": "heaven",
+"row": 9,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_099": {
+"name": "구름 다시마",
+"category": "heaven",
+"row": 9,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"heaven_100": {
+"name": "햇살 김",
+"category": "heaven",
+"row": 9,
+"col": 9,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_001": {
+"name": "이슬 산딸기",
+"category": "fairy",
+"row": 0,
+"col": 0,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fairy_002": {
+"name": "꽃잎 딸기",
+"category": "fairy",
+"row": 0,
+"col": 1,
+"cls": "fruit",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_003": {
+"name": "반딧불 블루베리",
+"category": "fairy",
+"row": 0,
+"col": 2,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fairy_004": {
+"name": "숲속 블랙베리",
+"category": "fairy",
+"row": 0,
+"col": 3,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fairy_005": {
+"name": "도토리 사과",
+"category": "fairy",
+"row": 0,
+"col": 4,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_006": {
+"name": "꿀방울 배",
+"category": "fairy",
+"row": 0,
+"col": 5,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_007": {
+"name": "여린 복숭아",
+"category": "fairy",
+"row": 0,
+"col": 6,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fairy_008": {
+"name": "요정 자두",
+"category": "fairy",
+"row": 0,
+"col": 7,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼"
+],
+"hearty": false
+},
+"fairy_009": {
+"name": "이슬방울 포도",
+"category": "fairy",
+"row": 0,
+"col": 8,
+"cls": "fruit",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_010": {
+"name": "꽃향 살구",
+"category": "fairy",
+"row": 0,
+"col": 9,
+"cls": "fruit",
+"tags": [
+"단맛",
+"상큼",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_011": {
+"name": "별잎 클로버",
+"category": "fairy",
+"row": 1,
+"col": 0,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_012": {
+"name": "고사리 새순",
+"category": "fairy",
+"row": 1,
+"col": 1,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_013": {
+"name": "산딸기 잎",
+"category": "fairy",
+"row": 1,
+"col": 2,
+"cls": "veg",
+"tags": [
+"상큼",
+"단맛"
+],
+"hearty": false
+},
+"fairy_014": {
+"name": "아기 시금치",
+"category": "fairy",
+"row": 1,
+"col": 3,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_015": {
+"name": "숲상추",
+"category": "fairy",
+"row": 1,
+"col": 4,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_016": {
+"name": "이슬 양배추",
+"category": "fairy",
+"row": 1,
+"col": 5,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_017": {
+"name": "비단 근대",
+"category": "fairy",
+"row": 1,
+"col": 6,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_018": {
+"name": "꽃방울 브로콜리",
+"category": "fairy",
+"row": 1,
+"col": 7,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_019": {
+"name": "요정 아스파라거스",
+"category": "fairy",
+"row": 1,
+"col": 8,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_020": {
+"name": "달콤한 완두순",
+"category": "fairy",
+"row": 1,
+"col": 9,
+"cls": "veg",
+"tags": [],
+"hearty": false
+},
+"fairy_021": {
+"name": "도토리 감자",
+"category": "fairy",
+"row": 2,
+"col": 0,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fairy_022": {
+"name": "꽃뿌리 당근",
+"category": "fairy",
+"row": 2,
+"col": 1,
+"cls": "root",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": true
+},
+"fairy_023": {
+"name": "이슬 순무",
+"category": "fairy",
+"row": 2,
+"col": 2,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fairy_024": {
+"name": "숲속 비트",
+"category": "fairy",
+"row": 2,
+"col": 3,
+"cls": "root",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"fairy_025": {
+"name": "달콤한 우엉",
+"category": "fairy",
+"row": 2,
+"col": 4,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fairy_026": {
+"name": "꿀뿌리 생강",
+"category": "fairy",
+"row": 2,
+"col": 5,
+"cls": "root",
+"tags": [
+"매운맛",
+"단맛"
+],
+"hearty": true
+},
+"fairy_027": {
+"name": "연분홍 래디시",
+"category": "fairy",
+"row": 2,
+"col": 6,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"fairy_028": {
+"name": "밤고구마 뿌리",
+"category": "fairy",
+"row": 2,
+"col": 7,
+"cls": "root",
+"tags": [
+"단맛",
+"고소"
+],
+"hearty": true
+},
+"fairy_029": {
+"name": "요정 양파",
+"category": "fairy",
+"row": 2,
+"col": 8,
+"cls": "root",
+"tags": [],
+"hearty": true
+},
+"fairy_030": {
+"name": "싹눈 마늘",
+"category": "fairy",
+"row": 2,
+"col": 9,
+"cls": "root",
+"tags": [
+"매운맛"
+],
+"hearty": true
+},
+"fairy_031": {
+"name": "숲보리",
+"category": "fairy",
+"row": 3,
+"col": 0,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fairy_032": {
+"name": "꽃밀",
+"category": "fairy",
+"row": 3,
+"col": 1,
+"cls": "grain",
+"tags": [
+"꽃향"
+],
+"hearty": true
+},
+"fairy_033": {
+"name": "이슬 쌀",
+"category": "fairy",
+"row": 3,
+"col": 2,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fairy_034": {
+"name": "도토리 가루",
+"category": "fairy",
+"row": 3,
+"col": 3,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fairy_035": {
+"name": "밤 가루",
+"category": "fairy",
+"row": 3,
+"col": 4,
+"cls": "grain",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_036": {
+"name": "숲기장",
+"category": "fairy",
+"row": 3,
+"col": 5,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fairy_037": {
+"name": "꿀귀리",
+"category": "fairy",
+"row": 3,
+"col": 6,
+"cls": "grain",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"fairy_038": {
+"name": "꽃씨 아마란스",
+"category": "fairy",
+"row": 3,
+"col": 7,
+"cls": "grain",
+"tags": [
+"꽃향"
+],
+"hearty": true
+},
+"fairy_039": {
+"name": "이끼콩 메밀",
+"category": "fairy",
+"row": 3,
+"col": 8,
+"cls": "grain",
+"tags": [],
+"hearty": true
+},
+"fairy_040": {
+"name": "요정 옥수수",
+"category": "fairy",
+"row": 3,
+"col": 9,
+"cls": "grain",
+"tags": [
+"단맛"
+],
+"hearty": true
+},
+"fairy_041": {
+"name": "이슬 헤이즐넛",
+"category": "fairy",
+"row": 4,
+"col": 0,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_042": {
+"name": "숲호두",
+"category": "fairy",
+"row": 4,
+"col": 1,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_043": {
+"name": "작은 밤",
+"category": "fairy",
+"row": 4,
+"col": 2,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_044": {
+"name": "다람쥐 잣",
+"category": "fairy",
+"row": 4,
+"col": 3,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_045": {
+"name": "꽃씨 해바라기",
+"category": "fairy",
+"row": 4,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소",
+"꽃향"
+],
+"hearty": true
+},
+"fairy_046": {
+"name": "꿀아몬드",
+"category": "fairy",
+"row": 4,
+"col": 5,
+"cls": "nut",
+"tags": [
+"고소",
+"단맛"
+],
+"hearty": true
+},
+"fairy_047": {
+"name": "이끼 피스타치오",
+"category": "fairy",
+"row": 4,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_048": {
+"name": "분홍 땅콩",
+"category": "fairy",
+"row": 4,
+"col": 7,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_049": {
+"name": "요정 캐슈",
+"category": "fairy",
+"row": 4,
+"col": 8,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_050": {
+"name": "도토리 알맹이",
+"category": "fairy",
+"row": 4,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_051": {
+"name": "숲민트",
+"category": "fairy",
+"row": 5,
+"col": 0,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_052": {
+"name": "레몬밤 잎",
+"category": "fairy",
+"row": 5,
+"col": 1,
+"cls": "herb",
+"tags": [
+"향긋",
+"상큼",
+"고소"
+],
+"hearty": false
+},
+"fairy_053": {
+"name": "이슬 타임",
+"category": "fairy",
+"row": 5,
+"col": 2,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_054": {
+"name": "꽃향 바질",
+"category": "fairy",
+"row": 5,
+"col": 3,
+"cls": "herb",
+"tags": [
+"향긋",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_055": {
+"name": "요정 딜",
+"category": "fairy",
+"row": 5,
+"col": 4,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_056": {
+"name": "산처빌",
+"category": "fairy",
+"row": 5,
+"col": 5,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_057": {
+"name": "은방울 차잎",
+"category": "fairy",
+"row": 5,
+"col": 6,
+"cls": "herb",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_058": {
+"name": "사과 카모마일",
+"category": "fairy",
+"row": 5,
+"col": 7,
+"cls": "herb",
+"tags": [
+"향긋",
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_059": {
+"name": "보랏빛 라벤더",
+"category": "fairy",
+"row": 5,
+"col": 8,
+"cls": "herb",
+"tags": [
+"향긋",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_060": {
+"name": "꿀향 스테비아",
+"category": "fairy",
+"row": 5,
+"col": 9,
+"cls": "herb",
+"tags": [
+"향긋",
+"단맛"
+],
+"hearty": false
+},
+"fairy_061": {
+"name": "분홍 우산버섯",
+"category": "fairy",
+"row": 6,
+"col": 0,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_062": {
+"name": "도토리 표고",
+"category": "fairy",
+"row": 6,
+"col": 1,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_063": {
+"name": "이슬 양송이",
+"category": "fairy",
+"row": 6,
+"col": 2,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_064": {
+"name": "별반점 버섯",
+"category": "fairy",
+"row": 6,
+"col": 3,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_065": {
+"name": "꽃잎 느타리",
+"category": "fairy",
+"row": 6,
+"col": 4,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_066": {
+"name": "미니 팽이",
+"category": "fairy",
+"row": 6,
+"col": 5,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_067": {
+"name": "숲곰보버섯",
+"category": "fairy",
+"row": 6,
+"col": 6,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_068": {
+"name": "꿀빛 송이버섯",
+"category": "fairy",
+"row": 6,
+"col": 7,
+"cls": "mushroom",
+"tags": [
+"감칠",
+"단맛"
+],
+"hearty": false
+},
+"fairy_069": {
+"name": "이끼 목이버섯",
+"category": "fairy",
+"row": 6,
+"col": 8,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_070": {
+"name": "요정 트러플",
+"category": "fairy",
+"row": 6,
+"col": 9,
+"cls": "mushroom",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_071": {
+"name": "들꽃 꿀",
+"category": "fairy",
+"row": 7,
+"col": 0,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_072": {
+"name": "아카시아 꿀",
+"category": "fairy",
+"row": 7,
+"col": 1,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_073": {
+"name": "장미 꽃꿀",
+"category": "fairy",
+"row": 7,
+"col": 2,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_074": {
+"name": "클로버 시럽",
+"category": "fairy",
+"row": 7,
+"col": 3,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_075": {
+"name": "이슬 물방울",
+"category": "fairy",
+"row": 7,
+"col": 4,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_076": {
+"name": "개암 우유",
+"category": "fairy",
+"row": 7,
+"col": 5,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"fairy_077": {
+"name": "요정양 우유",
+"category": "fairy",
+"row": 7,
+"col": 6,
+"cls": "dairy",
+"tags": [
+"고소"
+],
+"hearty": false
+},
+"fairy_078": {
+"name": "꽃버터",
+"category": "fairy",
+"row": 7,
+"col": 7,
+"cls": "dairy",
+"tags": [
+"고소",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_079": {
+"name": "숲치즈",
+"category": "fairy",
+"row": 7,
+"col": 8,
+"cls": "dairy",
+"tags": [
+"고소",
+"감칠"
+],
+"hearty": false
+},
+"fairy_080": {
+"name": "꽃무늬 작은 알",
+"category": "fairy",
+"row": 7,
+"col": 9,
+"cls": "egg",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_081": {
+"name": "제비꽃 설탕",
+"category": "fairy",
+"row": 8,
+"col": 0,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_082": {
+"name": "장미 설탕",
+"category": "fairy",
+"row": 8,
+"col": 1,
+"cls": "sweet",
+"tags": [
+"단맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_083": {
+"name": "이슬 소금",
+"category": "fairy",
+"row": 8,
+"col": 2,
+"cls": "season",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_084": {
+"name": "들꽃 꽃가루",
+"category": "fairy",
+"row": 8,
+"col": 3,
+"cls": "flower",
+"tags": [
+"꽃향"
+],
+"hearty": false
+},
+"fairy_085": {
+"name": "개암 코코아",
+"category": "fairy",
+"row": 8,
+"col": 4,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_086": {
+"name": "숲바닐라",
+"category": "fairy",
+"row": 8,
+"col": 5,
+"cls": "sweet",
+"tags": [
+"단맛"
+],
+"hearty": false
+},
+"fairy_087": {
+"name": "작은 계피",
+"category": "fairy",
+"row": 8,
+"col": 6,
+"cls": "spice",
+"tags": [
+"향긋"
+],
+"hearty": false
+},
+"fairy_088": {
+"name": "산초 열매",
+"category": "fairy",
+"row": 8,
+"col": 7,
+"cls": "spice",
+"tags": [
+"매운맛"
+],
+"hearty": false
+},
+"fairy_089": {
+"name": "꽃후추",
+"category": "fairy",
+"row": 8,
+"col": 8,
+"cls": "spice",
+"tags": [
+"매운맛",
+"꽃향"
+],
+"hearty": false
+},
+"fairy_090": {
+"name": "요정 코코넛가루",
+"category": "fairy",
+"row": 8,
+"col": 9,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_091": {
+"name": "연못 물밤",
+"category": "fairy",
+"row": 9,
+"col": 0,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_092": {
+"name": "연꽃 씨앗",
+"category": "fairy",
+"row": 9,
+"col": 1,
+"cls": "nut",
+"tags": [
+"고소",
+"꽃향"
+],
+"hearty": true
+},
+"fairy_093": {
+"name": "이슬 강낭콩",
+"category": "fairy",
+"row": 9,
+"col": 2,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_094": {
+"name": "꽃무늬 완두콩",
+"category": "fairy",
+"row": 9,
+"col": 3,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_095": {
+"name": "숲속 병아리콩",
+"category": "fairy",
+"row": 9,
+"col": 4,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_096": {
+"name": "녹빛 렌틸콩",
+"category": "fairy",
+"row": 9,
+"col": 5,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_097": {
+"name": "분홍 줄콩",
+"category": "fairy",
+"row": 9,
+"col": 6,
+"cls": "nut",
+"tags": [
+"고소"
+],
+"hearty": true
+},
+"fairy_098": {
+"name": "미니 송어",
+"category": "fairy",
+"row": 9,
+"col": 7,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_099": {
+"name": "이슬 새우",
+"category": "fairy",
+"row": 9,
+"col": 8,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+},
+"fairy_100": {
+"name": "연못 조개살",
+"category": "fairy",
+"row": 9,
+"col": 9,
+"cls": "sea",
+"tags": [
+"감칠"
+],
+"hearty": false
+}
+}
